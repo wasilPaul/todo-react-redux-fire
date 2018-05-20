@@ -1,4 +1,3 @@
-
 const ADD_TASK = 'todos/ADD_TASK'
 const DELETE_TASK = 'todos/DELETE_TASK'
 const NEW_TASK_CHANGE = 'todos/NEW_TASK_CHANGE'
