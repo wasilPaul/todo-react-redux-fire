@@ -5,6 +5,7 @@ const LogInByGoogle = (props) => (
     <RaisedButton
         label={'Log in by Google'}
         primary={true}
+        fullWidth={true}
         onClick={props.onLogInHandler}
     />
 )

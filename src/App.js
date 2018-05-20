@@ -1,12 +1,13 @@
 import React from 'react'
+import Todo from './components/Todo';
+import AppBar from './components/AppBar';
 
 
 const App = () =>
 
   <div>
-    <p >
-      To get started, edit and save to reload.
-        </p>
+    <AppBar />
+    <Todo />
   </div>
 
 
